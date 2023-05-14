@@ -127,7 +127,6 @@ $ npm run start
 
 [MIT license](https://opensource.org/licenses/MIT)
 
-<div align="center"><sub align="center">May 2023</sub></div>
 
 [^1]: About
 [^2]: Features
@@ -136,3 +135,4 @@ $ npm run start
 [^5]: Dependencies
 [^6]: TODO
 
+<div align="center"><sub align="center">May 2023</sub></div>
