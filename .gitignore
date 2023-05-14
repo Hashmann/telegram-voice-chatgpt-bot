@@ -1,0 +1,9 @@
+/.idea
+/.git
+/.env
+/log/*
+!log/do_not_delete_this_directory
+/audio/*
+!audio/request/do_not_delete_this_directory
+!audio/response/do_not_delete_this_directory
+/node_modules/

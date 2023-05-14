@@ -1,0 +1,3 @@
+{
+  "ignore": ["statistics.data.json", "settings.data.json", "history.data.json"]
+}
