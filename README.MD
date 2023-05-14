@@ -11,14 +11,14 @@
 
 <div align="center"><h2>
 
-[^1] About:
+About: [^1]
 </h2></div>
 
 Telegram bot for voice communication with ChatGPT. The user sends a voice or text message to the bot and receives a text or voice message in response from ChatGPT. It is written in JavaScript and uses NodeJS.
 
 <div align="center"><h3>
 
-[^2] Features: 
+Features: [^2]
 </h2></div>
 
 - [x] The ability to choose a service for converting voice to text: using `OpenAI API` or `YandexSpeechKit API`
@@ -38,7 +38,7 @@ Telegram bot for voice communication with ChatGPT. The user sends a voice or tex
 
 <div align="center"><h2>
 
-[^3] Installation:
+Installation: [^3]
 </h2></div>
 
 ```
@@ -59,7 +59,7 @@ $ npm install
 
 <div align="center"><h2>
 
-[^4] Usage:
+Usage: [^4]
 </h2></div>
 
 
@@ -81,7 +81,7 @@ $ npm run start
 
 <div align="center"><h2>
 
-[^5] Dependencies:
+Dependencies: [^5]
 </h2></div>
 
 <details>
